@@ -27,10 +27,14 @@
 25. Don't panic [Debugging]
 26. Select isn't broken
 27. Don't assume it- Prove it
-28. Learn a text manipulation language.
-29. Write code that writes code.
-
-
+28. Learn a text manipulation language
+29. Write code that writes code
+30. You can't write perfect software
+31. Design with contracts
+32. Crash early
+33. If it can't happen, use assertions to ensure that it won't
+34. Use exceptions for exceptional problems
+35. Finish what you start
 
 ### Building your portfolio
 - Invest regularly
