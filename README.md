@@ -35,8 +35,14 @@
 33. If it can't happen, use assertions to ensure that it won't
 34. Use exceptions for exceptional problems
 35. Finish what you start
+36. Minimize coupling between modules
+37. Configure, don't integrate
+38. Put abstractions in code, details in metadata
+39. Analyze workflow to improve concurrency
+40. Design using services
+41. Always design for concurrenc
+42. Separate views from models
 
-### Building your portfolio
 - Invest regularly
 - Diversify
 - Manage risk
